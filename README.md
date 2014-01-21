@@ -3,4 +3,4 @@ pages
 
 Test bed for Pages
 
-Here is some text <nowiki>text</nowiki>.
+Does not replace #import <<nowiki>*</nowiki>.h> lines, only #import "<nowiki>*</nowiki>.h" lines.
