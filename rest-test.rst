@@ -10,8 +10,8 @@ How about these?
 
 - Line two
 
-.. Line three
+.. Line three ..
 
 - Line four
 
-.. FIVE!
+.. FIVE! ..
